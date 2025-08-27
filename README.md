@@ -17,3 +17,5 @@ Plotting_Aff_and_AfB_LWdown_LHF_SHF_GHF.ipynb: plot the maps of other energy flu
 Plotting_ymonmean_Tmax_Tmean_Tmin_Climate_zone.ipynb: plot multi-year monthly mean temperature
 
 Plotting_ymonmean_Tmax_Tmean_Tmin_Climate_zone.ipynb: plot multi-year monthly mean energy fluxes
+
+Data can be found: Yao, Yi (2025). Yao et al 2025 Conversion from coniferous to broadleaved trees can make European forests more climate-effective. figshare. Dataset. https://doi.org/10.6084/m9.figshare.29995021.v1
